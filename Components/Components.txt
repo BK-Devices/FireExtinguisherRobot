@@ -1,1 +1,57 @@
+1 - Arduino Pro Mini
+2 - Joystick Module
+1 - 16x2 LCD Display
+1 - nRF24L01 + PA + LNA
+2 - SPDT Toggle Switch
+2 - Push Button
+2 - 18650 Battery
+1 - 18650 2S Battery Holder
+1 - 2S 3A BMS Module
+1 - LM7809
+1 - AMS1117 5V
+1 - AMS1117 3.3V
+1 - 10K Preset
+1 - 5V Buzzer
+1 - BC547
+1 - 3 pin RMC
+1 - 3 Pin Slide Switch
+1 - DC Female Socket
+1 - 12" x 12" Acrylic Sheet
 
+1 - ATMEGA-16A
+1 - NEO-6M GPS Module
+1 - ESP32 Cam Module
+1 - L298N Motor Driver
+1 - nRF24L01
+1 - PCB Antenna Module
+9 - 18650 Battery
+1 - 3S 20A BMS Module
+1 - Water Pump
+2 - SG90 Servo Motor
+1 - HC-SR04 Ultrasonic Sensor
+4 - DC Gear Motor
+8 - L Clamp	
+4 - Motor Wheels
+3 - IR Receiver
+1 - 16 Mhz Oscillator
+1 - 40 Pin IC Base
+1 - LM7808
+2 - LM7805
+1 - AMS1117 3.3V
+3 - 16mm Heat Sink
+2 - BC547
+1 - 5V Buzzer
+1 - 3 Pin Slide Switch
+1 - Tactile Switch
+1 - SPDT Big Rocker Switch
+1 - DC Female Socket
+1 - PB2 Connector
+2 - Berg Strip
+1 - RMC Connectors
+- - Capacitors
+- - Resistors
+
+1 - FTDI 232
+1 - 12V 2A Adapter
+1 - Arduino Nano Cable
+1 - 12" x 12" PCB
